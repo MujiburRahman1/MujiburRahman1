@@ -45,10 +45,9 @@
 ---
 
 ## 🎓 Teaching & Community Involvement
-- 🐍 Taught **Python programming** to **underprivileged students**, empowering them with coding skills.  
-- 🎤 Moderated **IELTS & Python learning sessions** to guide learners and connect them with resources.  
-- 🔗 [View Session Details on LinkedIn](https://www.linkedin.com/posts/mujib-ur-rahman_pythonbasics-conditionalstatements-loops-activity-7357930784084635648-z8wz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMUdX4BBNDY4WglX_lsApXj-m02ZlfT3Lc)  
+- 🐍 Taught **Python programming** to **underprivileged students**, empowering them with coding skills.[View Session Details on LinkedIn](https://www.linkedin.com/posts/mujib-ur-rahman_pythonbasics-conditionalstatements-loops-activity-7357930784084635648-z8wz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMUdX4BBNDY4WglX_lsApXj-m02ZlfT3Lc)  
 
+- 🎤 Moderated **IELTS & Python learning sessions** to guide learners and connect them with resources. [View Session Details on LinkedIn](https://www.linkedin.com/posts/mujib-ur-rahman_wrapping-up-a-transformative-ielts-preparation-activity-7273014738882609172-ivwA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMUdX4BBNDY4WglX_lsApXj-m02ZlfT3Lc) 
 ---
 
 ## 📊 GitHub Stats
@@ -57,6 +56,5 @@
 
 ---
 
-📄 **[View My Resume](YOUR_RESUME_LINK)**  
-💻 **[GitHub Projects](https://github.com/MujiburRahman1)**  
-🔗 **[LinkedIn Profile](YOUR_LINKEDIN_LINK)**  
+📄 **[View My Resume](https://drive.google.com/file/d/1gqyIRyJiwgi-K69GMMu_g7yCOQHzk1na/view?usp=sharing)**   
+🔗 **[LinkedIn Profile](https://www.linkedin.com/in/mujib-ur-rahman/)**  
